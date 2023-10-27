@@ -4,11 +4,13 @@ The main point in this text is that the fact that LLMs excel at generating text,
 
 Writing good proofs that other people can easily read, can be hard. If you're not the perfect writer, then given an informal proof you've written, chatGPT can improve the wording in the proof and the structure. 
 As an example, here's my informal proof that for any finite sets $A$ and $B$, if $|A|=|B|$, then $|A\triangle B|$ is even:
-![image](https://github.com/eeropomell/AI-for-math/assets/97628152/bf999719-e1bf-4360-b283-53825aa84643)
+![image](https://github.com/yougetyourmanwww/AI-for-math/assets/129695244/7d897d4e-4f44-4304-b3b7-cd9f797e8d4b)
+
 
 Now, that's definitely not badly written, but some people would rather read something like:
 
-![image](https://github.com/eeropomell/AI-for-math/assets/97628152/8f08a8e3-8aef-48f5-854e-44c18b9ccb6d)
+![image](https://github.com/yougetyourmanwww/AI-for-math/assets/129695244/a05caccb-e587-4e7a-8b16-2d16f31f3dc8)
+
 
 And that's produced by GPT4 from the informal proof I wrote. What this will enable is that every person can read proofs written in the style that they prefer the most. When converting informal proofs like this, mistakes happen very rarely (esp. with GPT4), because it can just take the stuff in the original proof, and write it in the desired style.
 
